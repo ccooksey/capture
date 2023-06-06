@@ -1,0 +1,41 @@
+/* Localizable strings */
+
+kCaptureIntervalWarning = "La valeur de l'intervalle doit être entre 1.0 et 1000.0";
+kCaptureDurationWarning = "La valeur de la période doit être entre 1.0 et 1000.0";
+kCaptureOutputFrameRateWarning = "Le débit d'images par seconde doit être entre 0.1 et 100.0";
+kCaptureFramesContinuous = "Des images sont capturées jusqu'à l'arrêt manuel.";
+kCaptureSnapshotsManual = "Des instantanés continuent d'être faites jusqu'à l'arrêt manuel.";
+kCaptureDurationMessage0 = "La vidéo durera ";
+kCaptureDurationMessage1 = ".";
+kCaptureDurationMessage2 = "";
+kCaptureDurationMessage3 = " instantanés seront enregistrées.";
+kCaptureDistributed = "Distributed under license by";
+
+kCaptureDay = "Jour";
+kCaptureDays = "Jours";
+kCaptureHour = "Heure";
+kCaptureHours = "Heures";
+kCaptureMinute = "Minute";
+kCaptureMinutes = "Minutes";
+kCaptureSecond = "Seconde";
+kCaptureSeconds = "Secondes";
+kCapture_day = "jour";
+kCapture_days = "jours";
+kCapture_hour = "heure";
+kCapture_hours = "heures";
+kCapture_minute = "minute";
+kCapture_minutes = "minutes";
+kCapture_second = "seconde";
+kCapture_seconds = "secondes";
+
+kCaptureOpenErrorMessage1 = "le chargement des préférences du numériseur";
+kCaptureOpenErrorMessage2 = "le basculement vers le composant préféré";
+kCaptureOpenErrorMessage3 = "l'ouverture du numériseur de séquence";
+kCaptureOpenErrorMessage4 = "l'ouverture du canal vidéo";
+kCaptureOpenErrorMessage5 = "la configuration du canal vidéo";
+kCaptureOpenErrorMessage6 = "la configuration du canal audio";
+kCaptureOpenErrorMessage7 = "le chargement de la prévisualisation";
+kCaptureOpenErrorMessage8 = "le chargement du composant de numériseur";
+kCaptureOpenErrorMessage9 = "le basculement vers le composant de numériseur";
+
+kCaptureSnapshot = "Instantané";

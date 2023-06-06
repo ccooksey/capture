@@ -1,0 +1,41 @@
+/* Localizable strings */
+
+kCaptureIntervalWarning = "Interval value must be between 1.0 and 1000.0";
+kCaptureDurationWarning = "Duration value must be between 1.0 and 1000.0";
+kCaptureOutputFrameRateWarning = "Output frame rate must be between 0.1 and 100.0";
+kCaptureFramesContinuous = "Capturing frames will continue until manually halted.";
+kCaptureSnapshotsManual = "Taking snaphots will continue until manually halted.";
+kCaptureDurationMessage0 = "The output movie will be ";
+kCaptureDurationMessage1 = " long.";
+kCaptureDurationMessage2 = "";
+kCaptureDurationMessage3 = " snapshots will be taken.";
+kCaptureDistributed = "Distributed under license by";
+
+kCaptureDay = "Day";
+kCaptureDays = "Days";
+kCaptureHour = "Hour";
+kCaptureHours = "Hours";
+kCaptureMinute = "Minute";
+kCaptureMinutes = "Minutes";
+kCaptureSecond = "Second";
+kCaptureSeconds = "Seconds";
+kCapture_day = "day";
+kCapture_days = "days";
+kCapture_hour = "hour";
+kCapture_hours = "hours";
+kCapture_minute = "minute";
+kCapture_minutes = "minutes";
+kCapture_second = "second";
+kCapture_seconds = "seconds";
+
+kCaptureOpenErrorMessage1 = "obtaining the digitizer preferences";
+kCaptureOpenErrorMessage2 = "switching to the preferred component";
+kCaptureOpenErrorMessage3 = "opening the sequence grabber";
+kCaptureOpenErrorMessage4 = "opening the video channel";
+kCaptureOpenErrorMessage5 = "configuring the video channel";
+kCaptureOpenErrorMessage6 = "configuring the audio channel";
+kCaptureOpenErrorMessage7 = "starting the preview";
+kCaptureOpenErrorMessage8 = "obtaining the digitizer component";
+kCaptureOpenErrorMessage9 = "switching to the digitizer component";
+
+kCaptureSnapshot = "Snapshot";

@@ -1,0 +1,41 @@
+/* Localizable strings */
+
+kCaptureIntervalWarning = "Der Wert für das Intervall muss zwischen 1,0 und 1000,0 liegen";
+kCaptureDurationWarning = "Der Wert für den Zeitraum muss zwischen 1,0 und 1000,0 liegen";
+kCaptureOutputFrameRateWarning = "Die Framte-Rate des erstellten Films muss zwischen 0,1 und 100,0 liegen.";
+kCaptureFramesContinuous = "Die Erfassung von Frames wird so lange vorgenommen, bis der Vorgang manuell angehalten wird.";
+kCaptureSnapshotsManual = "Snapshots werden so lange erstellt, bis der Vorgang manuell angehalten wird.";
+kCaptureDurationMessage0 = "Die Länge des erstellten Films ist ";
+kCaptureDurationMessage1 = ".";
+kCaptureDurationMessage2 = "Es werden ";
+kCaptureDurationMessage3 = " Snapshots erstellt.";
+kCaptureDistributed = "Distributed under license by";
+
+kCaptureDay = "Tag";
+kCaptureDays = "Tage";
+kCaptureHour = "Stunde";
+kCaptureHours = "Stunden";
+kCaptureMinute = "Minute";
+kCaptureMinutes = "Minuten";
+kCaptureSecond = "Sekunde";
+kCaptureSeconds = "Sekunden";
+kCapture_day = "Tag";
+kCapture_days = "Tage";
+kCapture_hour = "Stunde";
+kCapture_hours = "Stunden";
+kCapture_minute = "Minute";
+kCapture_minutes = "Minuten";
+kCapture_second = "Sekunde";
+kCapture_seconds = "Sekunden";
+
+kCaptureOpenErrorMessage1 = "Abrufen der Digitalisierer-Einstellungen";
+kCaptureOpenErrorMessage2 = "Umschalten zur bevorzugten Komponente";
+kCaptureOpenErrorMessage3 = "Öffnen des Sequence Grabber";
+kCaptureOpenErrorMessage4 = "Öffnen des Videokanals";
+kCaptureOpenErrorMessage5 = "Konfigurieren des Videokanals";
+kCaptureOpenErrorMessage6 = "Konfigurieren des Audiokanals";
+kCaptureOpenErrorMessage7 = "Starten der Vorschau";
+kCaptureOpenErrorMessage8 = "Abrufen der Digitalisierer-Komponente";
+kCaptureOpenErrorMessage9 = "Umschalten zur Digitalisierer-Komponente";
+
+kCaptureSnapshot = "Snapshot";

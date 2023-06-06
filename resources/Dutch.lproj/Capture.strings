@@ -1,0 +1,41 @@
+/* Localizable strings */
+
+kCaptureIntervalWarning = "Intervalwaarde moet tussen 1,0 en 1000,0 liggen";
+kCaptureDurationWarning = "Periodewaarde moet tussen 1,0 en 1000,0 liggen";
+kCaptureOutputFrameRateWarning = "De afspeel framerate moet liggen tussen 0,1 en 100,0";
+kCaptureFramesContinuous = "Frames zullen worden genomen tot dit handmatig wordt gestopt.";
+kCaptureSnapshotsManual = "Snapshots zullen worden genomen tot dit handmatig wordt gestopt.";
+kCaptureDurationMessage0 = "De film zal ";
+kCaptureDurationMessage1 = " lang zijn.";
+kCaptureDurationMessage2 = "";
+kCaptureDurationMessage3 = " snapshots zullen worden genomen.";
+kCaptureDistributed = "Distributed under license by";
+
+kCaptureDay = "Dag";
+kCaptureDays = "Dagen";
+kCaptureHour = "Uur";
+kCaptureHours = "Uren";
+kCaptureMinute = "Minuut";
+kCaptureMinutes = "Minuten";
+kCaptureSecond = "Seconde";
+kCaptureSeconds = "Seconden";
+kCapture_day = "dag";
+kCapture_days = "dagen";
+kCapture_hour = "uur";
+kCapture_hours = "uren";
+kCapture_minute = "minuut";
+kCapture_minutes = "minuten";
+kCapture_second = "seconde";
+kCapture_seconds = "seconden";
+
+kCaptureOpenErrorMessage1 = "het verkrijgen van de digitizer voorkeursinstellingen";
+kCaptureOpenErrorMessage2 = "het schakelen naar de voorkeurscomponent";
+kCaptureOpenErrorMessage3 = "het openen van de sequence grabber";
+kCaptureOpenErrorMessage4 = "opening the video channel";
+kCaptureOpenErrorMessage5 = "het openen van het videokanaal";
+kCaptureOpenErrorMessage6 = "het configureren van het videokanaal";
+kCaptureOpenErrorMessage7 = "het starten van de preview";
+kCaptureOpenErrorMessage8 = "het verkrijgen van de digitizer component";
+kCaptureOpenErrorMessage9 = "het schakelen naar de digitizer component";
+
+kCaptureSnapshot = "Snapshot";

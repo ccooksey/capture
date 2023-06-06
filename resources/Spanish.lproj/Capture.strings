@@ -1,0 +1,41 @@
+/* Localizable strings */
+
+kCaptureIntervalWarning = "El valor de intervalo debe estar entre 1,0 y 1000,0";
+kCaptureDurationWarning = "El valor de duraci—n debe estar entre 1,0 y 1000,0";
+kCaptureOutputFrameRateWarning = "Los fotogramas por segundo obtenidos deben encontrarse entre 0,1 y 100,0";
+kCaptureFramesContinuous = "La captura de fotogramas continuar‡ hasta que se detenga manualmente el proceso.";
+kCaptureSnapshotsManual = "La captura de instant‡neas continuar‡ hasta que se detenga manualmente el proceso.";
+kCaptureDurationMessage0 = "La pel’cula obtenida durar‡ ";
+kCaptureDurationMessage1 = ".";
+kCaptureDurationMessage2 = "Se capturar‡n ";
+kCaptureDurationMessage3 = " instant‡neas.";
+kCaptureDistributed = "Distribuido bajo licencia por MAGIX AG";
+
+kCaptureDay = "D’a";
+kCaptureDays = "D’as";
+kCaptureHour = "Hora";
+kCaptureHours = "Horas";
+kCaptureMinute = "Minuto";
+kCaptureMinutes = "Minutos";
+kCaptureSecond = "Segundo";
+kCaptureSeconds = "Segundos";
+kCapture_day = "d’a";
+kCapture_days = "d’as";
+kCapture_hour = "hora";
+kCapture_hours = "horas";
+kCapture_minute = "minuto";
+kCapture_minutes = "minutos";
+kCapture_second = "segundo";
+kCapture_seconds = "segundos";
+
+kCaptureOpenErrorMessage1 = "obteniendo las preferencias del digitalizador";
+kCaptureOpenErrorMessage2 = "conmutando al componente preferido";
+kCaptureOpenErrorMessage3 = "abriendo el captador de secuencias";
+kCaptureOpenErrorMessage4 = "abriendo el canal de v’deo";
+kCaptureOpenErrorMessage5 = "configurando el canal de v’deo";
+kCaptureOpenErrorMessage6 = "configurando el canal de audio";
+kCaptureOpenErrorMessage7 = "iniciando la vista preliminar";
+kCaptureOpenErrorMessage8 = "obteniendo el componente del digitalizador";
+kCaptureOpenErrorMessage9 = "conmutando al componente del digitalizador";
+
+kCaptureSnapshot = "Instant‡nea";
